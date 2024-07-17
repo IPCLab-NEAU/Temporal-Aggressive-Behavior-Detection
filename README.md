@@ -12,6 +12,11 @@ Extraction code：**please email at bsdai@neau.edu.cn**
 
 
 ## 2️⃣ Results
+The experimental results are as below.
+
+| Method \ mAP@IoU (%) | 0.1  | 0.2  | 0.3  | 0.4  | 0.5  | AVG  |
+| -------------------- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Ours                 | 68.0 | 65.8 | 58.8 | 49.3 | 35.7 | 55.5 |
 
 
 ## 3️⃣ Citation
