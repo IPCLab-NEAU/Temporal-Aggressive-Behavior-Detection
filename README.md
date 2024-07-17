@@ -2,7 +2,9 @@
 ## Deep neural network with adaptive dual-modality fusion for temporal aggressive behavior detection of group-housed pigs
 
 ## 🔥 Overview
-![](./figs/framework.png)
+<p align="center">
+    <img src="figure/motivation.PNG" width="80%"/> <br />
+</p>
 
 ## 1️⃣ Data
 To find the dataset used in this study, please make sure all files are downloaded from [**here**](https://pan.baidu.com/s/1knwfh46GtiSWgxy8JoXN8g).  
