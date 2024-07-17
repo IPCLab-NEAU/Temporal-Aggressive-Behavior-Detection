@@ -3,7 +3,7 @@
 
 ## 🔥 Overview
 <p align="center">
-    <img src="figure/motivation.PNG" width="80%"/> <br />
+    <img src="overview.PNG" width="80%"/> <br />
 </p>
 
 ## 1️⃣ Data
